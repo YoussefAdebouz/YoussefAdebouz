@@ -7,7 +7,6 @@ Web Developer and Cyber Security Person
 I’m interested in programming, blockchain, web3, cybersecurity, cloud computing, cryptography, AI...Etc
 
 * 🌍  I'm based in Morocco
-* ✉️  You can contact me at [Discord: Geek#6054](mailto:Discord: Geek#6054)
 * 🧠  I'm learning a new framework and cloud computing
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm a nerd geek.... but don't tell anyone
@@ -28,7 +27,7 @@ I’m interested in programming, blockchain, web3, cybersecurity, cloud computin
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Geek#6054" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/youssefadbz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Geek#6054" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/youssefadbz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/yoseph_abz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
