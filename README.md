@@ -9,7 +9,7 @@ I’m interested in programming, blockchain, web3, cybersecurity, cloud computin
 * 🌍  I'm based in Morocco
 * 🧠  I'm learning a new framework and cloud computing
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm a nerd geek.... but don't tell anyone
+* ⚡  I'm a geek.... but don't tell anyone
 
 ### Skills
 
