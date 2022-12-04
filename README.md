@@ -11,7 +11,7 @@ I’m interested in programming, blockchain, web3, cybersecurity, cloud computin
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm a geek.... but don't tell anyone
 
-<script src="https://tryhackme.com/badge/1421129"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Y0Z4R3F.png" alt="TryHackMe">
 
 ### Skills
 
