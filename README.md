@@ -1,7 +1,7 @@
 Hi 👋 My name is Joseph
 =======================
 
-Web Developer and Cyber Security Person
+Web Developer and Penetration tester
 ---------------------------------------
 
 I’m interested in programming, blockchain, web3, cybersecurity, cloud computing, cryptography, AI...Etc
@@ -12,7 +12,6 @@ I’m interested in programming, blockchain, web3, cybersecurity, cloud computin
 * ⚡  I'm a geek.... but don't tell anyone
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Y0Z4R3F.png" alt="TryHackMe">
-
 
 ### Skills
 
