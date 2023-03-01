@@ -1,16 +1,15 @@
-Hi 👋 My name is Joseph
+Hi 👋 My name 01001000 00110100 01000011 01001011 00110011 01010010
 =======================
 
-Web Developer and Penetration tester
+Penetration tester, Web Developer and IT Professional
 ---------------------------------------
 
 I’m interested in programming, blockchain, web3, cybersecurity, cloud computing, cryptography, AI...Etc
 
-* 🌍  I'm based in Morocco
-* 🧠  I'm learning a new framework and cloud computing
+* 🌍  I'm Everywhere
+* 🧠  1n73ll1g3nc3 15 7h3 4b1l17y 70 4d4p7 70 Ch4ng3
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm a geek.... but don't tell anyone
-
+* ⚡  "Hacking is like sex. You get in, you get out, and you hope you didn't leave something that can be traced back to you." - Rodney Dangerfield
 <img src="https://tryhackme-badges.s3.amazonaws.com/Y0Z4R3F.png" alt="TryHackMe">
 
 ### Skills
