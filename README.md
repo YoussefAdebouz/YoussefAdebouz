@@ -11,7 +11,6 @@ I’m interested in programming, blockchain, web3, cybersecurity, cloud computin
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  "Hacking is like sex. You get in, you get out, and you hope you didn't leave something that can be traced back to you." - Rodney Dangerfield
 <img src="https://tryhackme-badges.s3.amazonaws.com/Y0Z4R3F.png" alt="TryHackMe">
-<script src="https://tryhackme.com/badge/1421129"></script>
 
 ### Skills
 
