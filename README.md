@@ -1,7 +1,7 @@
 Hi 👋 I'm a 01001000 00110100 01000011 01001011 00110011 01010010
 =======================
 
-Penetration tester, Web Developer and IT Professional
+Penetration tester, Red Teamer, Cybersecurity Engineer, Web Developer
 ---------------------------------------
 
 I’m interested in programming, blockchain, web3, cybersecurity, cloud computing, cryptography, AI...Etc
